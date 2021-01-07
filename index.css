@@ -1,3 +1,7 @@
+body {
+  background-color: #f87171;
+}
+
 #clockContainer {
   position: relative;
   margin: auto;
